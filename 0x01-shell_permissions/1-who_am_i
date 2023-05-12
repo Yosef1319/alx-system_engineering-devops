@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 /alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
+root@7d0694683b23:/alx-system_engineering-devops/0x01-shell_permissions# ls -l /alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
